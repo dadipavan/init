@@ -1,0 +1,3 @@
+# to use with ssh session use the command ssh -p <port> user@host
+# to change to other user with terminal use
+# su -u <username>

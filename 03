@@ -1,1 +1,2 @@
-[ -f ~/.box-name ] && cat ~/.box-name || echo ${SHORT_HOST:-HOST}
+# to change the name permanently you need to put the new name
+# inside the /etc/hostname file.
